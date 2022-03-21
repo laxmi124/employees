@@ -62,12 +62,27 @@ function App() {
 
 
  const ascending=()=>{
-    let updated = list.sort((a,b)=> (+a.salary) - (+b.salary));
-    console.log(list.salary)
+  fetch(`http://localhost:3001/employee`)
+  .then((res)=>res.json())
+  .then((res)=>{
+    let updated = res.sort((a,b)=> (+a.salary) - (+b.salary));
+    // console.log(list.salary)
     setList(updated)
+  })
+  .catch((err)=>console.log(err))
+
+    
  }
 
  const descending=()=>{
+  fetch(`http://localhost:3001/employee`)
+  .then((res)=>res.json())
+  .then((res)=>{
+    let updated = res.sort((a,b)=> (+b.salary) - (+a.salary));
+    // console.log(list.salary)
+    setList(updated)
+  })
+  .catch((err)=>console.log(err))
 
  }
 

@@ -1,140 +1,28 @@
 {
   "employee": [
     {
-      "name": "hey",
-      "department": "my",
-      "gender": "name",
-      "role": "is",
-      "salary": "laxmi",
+      "name": "laxmi",
+      "department": "IT",
+      "gender": "f",
+      "role": "head",
+      "salary": "73",
       "id": 1
     },
     {
-      "name": "hey",
-      "department": "",
-      "gender": "",
-      "role": "",
-      "salary": "",
+      "name": "laxmi",
+      "department": "HR",
+      "gender": "f",
+      "role": "head",
+      "salary": "7",
       "id": 2
     },
     {
       "name": "laxmi",
-      "department": "it",
+      "department": "marketing",
       "gender": "f",
-      "role": "",
-      "salary": "",
+      "role": "head",
+      "salary": "930",
       "id": 3
-    },
-    {
-      "name": "laxmi",
-      "department": "it",
-      "gender": "f",
-      "role": "",
-      "salary": "",
-      "id": 4
-    },
-    {
-      "name": "fd",
-      "department": "fd",
-      "gender": "fd",
-      "role": "",
-      "salary": "",
-      "id": 5
-    },
-    {
-      "name": "name",
-      "department": "depart",
-      "gender": "gender",
-      "role": "role",
-      "salary": "salary",
-      "id": 6
-    },
-    {
-      "name": "name",
-      "department": "depar",
-      "gender": "gen",
-      "role": "role",
-      "salary": "sal",
-      "id": 7
-    },
-    {
-      "name": "name2",
-      "department": "depar2",
-      "gender": "gen2",
-      "role": "role2",
-      "salary": "sal2",
-      "id": 8
-    },
-    {
-      "name": "name3",
-      "department": "depart3",
-      "gender": "gender",
-      "role": "role",
-      "salary": "sal",
-      "id": 9
-    },
-    {
-      "name": "",
-      "department": "",
-      "gender": "",
-      "role": "",
-      "salary": "",
-      "id": 10
-    },
-    {
-      "name": "a",
-      "department": "head",
-      "gender": "f",
-      "role": "IT",
-      "salary": "33",
-      "id": 11
-    },
-    {
-      "name": "",
-      "department": "IT",
-      "gender": "",
-      "role": "",
-      "salary": "",
-      "id": 12
-    },
-    {
-      "name": "laxmi",
-      "department": "Marketing",
-      "gender": "f",
-      "role": "head",
-      "salary": "33",
-      "id": 13
-    },
-    {
-      "name": "laxmi",
-      "department": "HR",
-      "gender": "f",
-      "role": "head",
-      "salary": "33",
-      "id": 14
-    },
-    {
-      "name": "laxmi",
-      "department": "Finance",
-      "gender": "f",
-      "role": "head",
-      "salary": "33",
-      "id": 15
-    },
-    {
-      "name": "laxmi dutta",
-      "department": "IT",
-      "gender": "f",
-      "role": "head",
-      "salary": "59",
-      "id": 16
-    },
-    {
-      "name": "laxmi dutta",
-      "department": "HR",
-      "gender": "f",
-      "role": "head",
-      "salary": "5",
-      "id": 17
     }
   ]
 }
